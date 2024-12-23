@@ -15,7 +15,7 @@ Validate usability, compatibility, and performance of the website.
 #Selenium Automation Testing:
 
 Automate regression and repetitive test cases using Selenium WebDriver.
-Utilize the Page Object Model (POM) framework for maintainability and scalability.
+Utilize the Page Object Model (POM) framework for maintainability and scalability
 Execute test cases across multiple browsers to ensure cross-browser compatibility.
 
 
